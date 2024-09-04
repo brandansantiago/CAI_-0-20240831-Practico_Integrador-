@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{F1D894D7-4B12-4C60-8A84-9B45FDCFDCD6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1D894D7-4B12-4C60-8A84-9B45FDCFDCD6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\facultad\\2do cuatrimestre - 2024\\cai-bertagnoli\\ejercicios\\cai_-0-20240831-practico_integrador-\\formsprueba\\windowsformsapp1\\pruebagit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1D894D7-4B12-4C60-8A84-9B45FDCFDCD6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\CAI_-0-20240831-Practico_Integrador-\\FormsPrueba\\windowsformsapp1\\pruebagit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1D894D7-4B12-4C60-8A84-9B45FDCFDCD6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\pruebagit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1D894D7-4B12-4C60-8A84-9B45FDCFDCD6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\facultad\\2do cuatrimestre - 2024\\cai-bertagnoli\\ejercicios\\cai_-0-20240831-practico_integrador-\\formsprueba\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F1D894D7-4B12-4C60-8A84-9B45FDCFDCD6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\CAI_-0-20240831-Practico_Integrador-\\FormsPrueba\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F1D894D7-4B12-4C60-8A84-9B45FDCFDCD6}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +36,7 @@
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
               "ToolTip": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\CAI_-0-20240831-Practico_Integrador-\\FormsPrueba\\WindowsFormsApp1\\Program.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T22:19:40.203Z",
               "EditorCaption": ""
@@ -47,8 +51,7 @@
               "RelativeToolTip": "WindowsFormsApp1\\PruebaGit.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T22:19:59.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T22:19:59.182Z"
             },
             {
               "$type": "Document",
@@ -59,8 +62,7 @@
               "ToolTip": "C:\\Facultad\\2DO CUATRIMESTRE - 2024\\CAI-Bertagnoli\\Ejercicios\\CAI_-0-20240831-Practico_Integrador-\\FormsPrueba\\WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T22:14:27.591Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-08-31T22:14:27.591Z"
             }
           ]
         }

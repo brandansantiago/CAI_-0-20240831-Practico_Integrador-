@@ -19,6 +19,8 @@ namespace WindowsFormsApp1
             Application.Run(new Form1());
 
             MessageBox.Show("Hola Tomi");
+
+            MessageBox.Show("Hola Santi 2024/09/04");
         }
     }
 }
